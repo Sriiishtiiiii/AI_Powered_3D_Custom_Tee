@@ -5,10 +5,10 @@ The AI-Powered 3D T-Shirt Color Picker is a sophisticated web application that a
 <br>
 
 # Features
-3D Visualization: Real-time 3D rendering of t-shirts using Three.js.
+•3D Visualization: Real-time 3D rendering of t-shirts using Three.js.
 <br>
-AI-Powered Color Suggestions: The app utilizes OpenAI to suggest colors based on user input.
+•AI-Powered Color Suggestions: The app utilizes OpenAI to suggest colors based on user input.
 <br>
-Responsive Design: The app is fully responsive and works seamlessly on both desktop and mobile devices.
+•Responsive Design: The app is fully responsive and works seamlessly on both desktop and mobile devices.
 <br>
-Backend Integration: The backend, built with Node.js and Express, handles API requests, interacts with MongoDB, and integrates with OpenAI for AI functionalities.
+•Backend Integration: The backend, built with Node.js and Express, handles API requests, interacts with MongoDB, and integrates with OpenAI for AI functionalities.
